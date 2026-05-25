@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Rule-Based AI Chatbot 🤖
 
 This project is a simple Rule-Based AI Chatbot created using Python as part of the DecodeLabs AI Internship.
@@ -20,3 +21,6 @@ python chatbot.py
 
 ## Author
 Adil Junaid
+=======
+# DecodeLabs-Internship
+>>>>>>> e094f84a6f863bfbbcd6b918df7c0866fd4b1c68
