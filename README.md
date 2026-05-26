@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Rule-Based AI Chatbot 🤖
 
 This project is a simple Rule-Based AI Chatbot created using Python as part of the DecodeLabs AI Internship.
@@ -21,6 +20,27 @@ python chatbot.py
 
 ## Author
 Adil Junaid
-=======
-# DecodeLabs-Internship
->>>>>>> e094f84a6f863bfbbcd6b918df7c0866fd4b1c68
+
+
+# AI Classification Model 🌸
+
+This project uses Machine Learning to classify Iris flowers using the K-Nearest Neighbors (KNN) algorithm.
+
+## Features
+- Iris dataset classification
+- Train-test split
+- KNN model training
+- Accuracy calculation
+- Confusion matrix generation
+- Flower prediction system
+
+## Technologies Used
+- Python
+- Scikit-learn
+- Pandas
+- Matplotlib
+
+## Run the Project
+bash
+python classification_model.py
+
